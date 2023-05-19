@@ -1,0 +1,7 @@
+Aplikacja musi:
+    1. Sprawdzać, czy plik tekstowy zapis.txt istnieje
+        - Jeśli nie, tworzyć go
+
+    2. Odpytywać użytkownika o to, co chce zrobić. Czy zapisać tekst do, czy odczytać z pliku
+    3. Zapisywać tekst do pliku
+    4. Odczytywać tekst z pliku

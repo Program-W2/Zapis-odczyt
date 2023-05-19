@@ -1,0 +1,15 @@
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\Zapis odczyt.exe
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\Zapis odczyt.deps.json
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\Zapis odczyt.runtimeconfig.json
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\Zapis odczyt.dll
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\Zapis odczyt.pdb
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\Zapis odczyt.csproj.AssemblyReference.cache
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\Zapis odczyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\Zapis odczyt.AssemblyInfoInputs.cache
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\Zapis odczyt.AssemblyInfo.cs
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\Zapis odczyt.csproj.CoreCompileInputs.cache
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\Zapis odczyt.dll
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\refint\Zapis odczyt.dll
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\Zapis odczyt.pdb
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\Zapis odczyt.genruntimeconfig.cache
+C:\Users\Program-W2\Desktop\Zapis odczyt\obj\Debug\net7.0\ref\Zapis odczyt.dll

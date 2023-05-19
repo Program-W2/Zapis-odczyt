@@ -1,0 +1,5 @@
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\publish\Zapis odczyt.exe
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\publish\Zapis odczyt.dll
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\publish\Zapis odczyt.deps.json
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\publish\Zapis odczyt.runtimeconfig.json
+C:\Users\Program-W2\Desktop\Zapis odczyt\bin\Debug\net7.0\publish\Zapis odczyt.pdb
